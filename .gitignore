@@ -3,6 +3,6 @@ dist
 bower_components
 .tmp
 .publish/
-.build
+.build/
 *.*~
 #*.*#
